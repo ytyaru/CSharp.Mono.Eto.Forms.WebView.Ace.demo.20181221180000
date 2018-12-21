@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebViewLocalHtml", "WebViewLocalHtml\WebViewLocalHtml\WebViewLocalHtml.csproj", "{F488E57C-085D-4D15-BCEB-1B686ECEA183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebViewLocalHtml.Desktop", "WebViewLocalHtml\WebViewLocalHtml.Desktop\WebViewLocalHtml.Desktop.csproj", "{6E05D542-1FDC-426F-B5E1-761F85E9070A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F488E57C-085D-4D15-BCEB-1B686ECEA183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F488E57C-085D-4D15-BCEB-1B686ECEA183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F488E57C-085D-4D15-BCEB-1B686ECEA183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F488E57C-085D-4D15-BCEB-1B686ECEA183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E05D542-1FDC-426F-B5E1-761F85E9070A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E05D542-1FDC-426F-B5E1-761F85E9070A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E05D542-1FDC-426F-B5E1-761F85E9070A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E05D542-1FDC-426F-B5E1-761F85E9070A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
